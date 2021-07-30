@@ -1,1 +1,1 @@
-# Task_7 on Docker in JavaScript
+# Task_7 on Docker using JavaScript
